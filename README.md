@@ -7,12 +7,9 @@
 - perform color image reconstruction using Bayer pattern and color reproduction using Dithering, perform image rotation, scaling, and skewing which are specializations of affine transformation, and image stitching by feature-matching algorithms.
 4. Cell Segmentation:
 - detecting cells in an image using blob detection techniques in Scikit-image and use watershed segmentation to find the boundaries of the cells I detected. 
-
+5. JPEG encoding and decoding
 
 - Digital image and video representations, file formats
-- Theory of image filtering operations
 - Color representations and adjustments for displaying and printing
-- Edge detection
-- Histogram operations
 - Introduction to image compression and coding
 - A brief introduction to Deep Learning for image classification
