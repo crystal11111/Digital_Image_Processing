@@ -1,5 +1,5 @@
 # Digital_Image_Processing
-<p1> You can check jupyter notebook to see the result, code for the python file. </p1>
+<p1> You can check jupyter notebook to see the result, python file for the code. </p1>
 1. Image Basics:
 - know how to access pixels from an image matrix, compute a gray scale histogram and learn to equalize, compare and match histograms.
 2. Filters and Edge Detection: 
@@ -8,8 +8,6 @@
 4. Cell Segmentation:
 - detecting cells in an image using blob detection techniques in Scikit-image and use watershed segmentation to find the boundaries of the cells I detected. 
 5. JPEG encoding and decoding
-
-- Digital image and video representations, file formats
-- Color representations and adjustments for displaying and printing
-- Introduction to image compression and coding
-- A brief introduction to Deep Learning for image classification
+- implementing JPEG encoder and decoder to acheive JPEG compression.
+6. Image Classification with CNN:
+  
