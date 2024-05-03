@@ -1,5 +1,5 @@
 # Digital_Image_Processing
-<p1> You can check jupyter notebook to see the result, python file for the code. </p1>
+<p1> You can check Jupyter Notebook (.ipynb) to see the result, python file for the code. </p1>
 1. Image Basics:
 - know how to access pixels from an image matrix, compute a gray scale histogram and learn to equalize, compare and match histograms.
 2. Filters and Edge Detection: 
